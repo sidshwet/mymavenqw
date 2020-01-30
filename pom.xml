@@ -33,7 +33,5 @@
         </configuration>
       </plugin>
     </plugins>
-    <plugins>
- <plugin>
-</build>
+  </build>
 </project>
